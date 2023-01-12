@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robera
 - 👀 I’m interested in making beautiful interactive interfaces and Type theory 
 - 🌱 I’m currently learning(always) 
-- 📫 Reach out at https://twitter.com/RoberaGeleta
+- 📫 Reach out at [Robera Geleta](https://twitter.com/RoberaGeleta)
 
 <!---
 terminatorover/terminatorover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
