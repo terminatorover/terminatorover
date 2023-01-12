@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @terminatorover
+- 👋 Hi, I’m Robera
 - 👀 I’m interested in making beautiful interactive interfaces and Type theory 
 - 🌱 I’m currently learning(always) 
 - 📫 How to reach me ...
