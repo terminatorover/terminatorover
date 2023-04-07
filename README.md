@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robera
-- 👀 I’m interested in making beautiful interactive interfaces and Type theory 
+- 👀 I’m always interested in making beautiful interactive interfaces and currently Type theory 
 - 🌱 I’m currently(always) learning
 - 📫 Reach out at [Robera Geleta](https://twitter.com/RoberaGeleta)
 
