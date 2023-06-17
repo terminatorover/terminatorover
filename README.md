@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Robera
-- 👀 I’m always interested in making beautiful interactive interfaces 
-- 🌱 I’m currently(always) learning
+- 👀 I’m always interested in making beautiful interactive interfaces
 - 📫 Reach out at [Robera Geleta](https://twitter.com/RoberaGeleta)
 
 <!---
